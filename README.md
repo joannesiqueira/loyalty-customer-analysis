@@ -26,4 +26,4 @@ Transactional data from a UK-based online retailer (2010–2011).
 Python (pandas, matplotlib, seaborn) | Jupyter Notebook | Git
 
 ## Status
-🔄 In progress — Week 1: Environment setup & EDA
+✅ Week 1 in progress — started June 4, 2025
